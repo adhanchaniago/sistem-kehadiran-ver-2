@@ -67,6 +67,7 @@
     <title>Bengkel CEICnet</title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="icon" href="./assets/img/LogoUniMAP2017.png">
 </head>
 <body>
     <section class="text-center" style="width: auto;height: auto;margin-bottom: 10px;padding-top: 68px;margin-right: 20px;margin-left: 20px;"><span class="text-center d-flex justify-content-center" style="width: auto;height: auto;font-size: 15px;color: rgb(6,1,40);font-weight: bold;margin-right: 20px;margin-left: 20px;"></span></section>
