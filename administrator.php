@@ -61,6 +61,7 @@
                 <title>Admin Bengkel Ceicnet</title>
                 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
                 <link rel="stylesheet" href="assets/css/styles.css">
+                <link rel="icon" href="./assets/img/LogoUniMAP2017.png">
             </head>
             <body style="padding-left: 5px;padding-right: 5px;">
                 <section>
