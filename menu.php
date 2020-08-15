@@ -18,6 +18,7 @@
                 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
                 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.21/css/jquery.dataTables.css">
                 <link rel="stylesheet" href="assets/css/styles.css">
+                <link rel="icon" href="./assets/img/LogoUniMAP2017.png">
             </head>
             <body style="padding-right: 10px;padding-left: 10px;">
                 <section>
